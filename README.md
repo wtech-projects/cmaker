@@ -1,13 +1,12 @@
-# CartolaBot
-Yor personal assistent for anything you want.
+# Cocktail Maker
+Yor personal cocktail machine
 
 ## Project Structure
 
 | Submodules                                                      | Progress status                                                      | Build status                                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------- |  -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| [cb-infra](https://github.com/cartolabot/cb-infra) | ![Status](https://img.shields.io/badge/Status-developing-brightgree) | [![GitHub CI](https://github.com/cartolabot/cb-infra/actions/workflows/main.yml/badge.svg)](https://github.com/cartolabot/cb-infra/actions) 
-| [cb-score-scrapping-service](https://github.com/cartolabot/cb-score-scraping-service) | ![Status](https://img.shields.io/badge/Status-developing-brightgree) | [![GitHub CI](https://github.com/cartolabot/cb-score-scraping-service/actions/workflows/main.yml/badge.svg)](https://github.com/cartolabot/cb-score-scraping-service/actions) 
-| [cb-wa-integration-service](https://github.com/cartolabot/cb-wa-integration-service) | ![Status](https://img.shields.io/badge/Status-developing-brightgree) | [![GitHub CI](https://github.com/cartolabot/cb-wa-integration-service/actions/workflows/main.yml/badge.svg)](https://github.com/cartolabot/cb-wa-integration-service/actions) 
+| [cmaker-api](https://github.com/cartolabot/cmaker-api) | ![Status](https://img.shields.io/badge/Status-developing-brightgree) | [![GitHub CI](https://github.com/cmaker/cmaker-api/actions/workflows/maven.yml/badge.svg)](https://github.com/cmaker/cmaker-api/actions) 
+| [cmaker-frontend](https://github.com/cmaker/cmaker-frontend) | ![Status](https://img.shields.io/badge/Status-developing-brightgree) | [![GitHub CI](https://github.com/cmaker/cmaker-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/cmaker/cmaker-frontend/actions) 
 
 
 
